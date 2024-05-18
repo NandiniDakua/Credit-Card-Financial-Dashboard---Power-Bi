@@ -1,1 +1,2 @@
-# Credit-Card-Financial-Dashboard---Power-Bi
+### Credit-Card-Financial-Dashboard---Power-Bi
+A Power BI dashboard for Credit Card Finances displays colorful charts and numbers that show how people spend money using their different types of credit cards. It helps banks and financial companies understand trends like where people shop the most, how much they spend. This helps them make decisions to manage credit cards better and help customers handle their money wisely.
